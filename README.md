@@ -1,5 +1,6 @@
 # GNN-AML
 Implementing GAT with a synthetic AML dataset
+Dataset is available here - https://www.kaggle.com/datasets/ealtman2019/ibm-transactions-for-anti-money-laundering-aml
 
 ### **Introduction**
 Money laundering remains a significant challenge in the financial sector, characterized by increasingly sophisticated methods aimed at obfuscating illicit activities. Detecting money laundering patterns is a complex task due to the intricate nature of financial transactions and the privacy constraints surrounding transactional data. In this project, we leverage Graph Neural Networks (GNNs) to detect patterns indicative of money laundering in a synthetic dataset.
